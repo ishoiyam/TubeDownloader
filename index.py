@@ -11,6 +11,11 @@ class TubeDownloader(QMainWindow, Ui_MainWindow):
         QMainWindow.__init__(self)
         self.setupUi(self)
 
+    def Handel_Buttons(self):
+        pass
+
+
+
 
 
 def main():
