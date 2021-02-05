@@ -1,5 +1,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
+__all__ = ["Ui_MainWindow"]
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
